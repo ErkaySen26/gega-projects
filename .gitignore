@@ -1,0 +1,17 @@
+# Node.js ile ilgili dosyalar
+node_modules/
+
+# Derlenmiş CSS
+public/css/*.css
+
+# Geçici dosyalar
+*.log
+*.tmp
+.DS_Store
+
+# IDE ve editör dosyaları
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+Thumbs.db
